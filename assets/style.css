@@ -53,6 +53,7 @@ p {
         width:40%;
         float:left;
         margin-left: 10%;
+        padding: 1em .5em;
       }
     
     #git-flow-section{
